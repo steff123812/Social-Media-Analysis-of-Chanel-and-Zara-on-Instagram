@@ -1,3 +1,7 @@
+# MSc Business Analytics Project – Exploratory analysis script
+# Note: This script reflects an iterative academic workflow.
+# Some sections are exploratory/commented and not intended as a production pipeline.
+
 # %%
 # This section imports the required data analysis library (Pandas)
 # and loads the Instagram post data from an Excel file.
